@@ -6,7 +6,7 @@ import platform
 import os
 from datetime import datetime
 
-gemma_api = "AIzaSyAz8swo_T-IxG12f9K4VsdUmxdV_HH_qho"
+gemma_api = "gemma-api-key"
 # Configure API
 genai.configure(api_key=gemma_api)
 
